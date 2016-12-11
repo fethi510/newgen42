@@ -1,0 +1,21 @@
+<?php
+$lang['contact_like_fb'] = 'suivez-nous sur Facebook';
+$lang['contact_like_twitter'] = 'suivez-nous sur Twitter';
+$lang['contact_informations'] = 'nos coordonnées';
+$lang['contact_find_us'] = 'trouvez-nous';
+$lang['contact_contact_us'] = 'contactez-nous';
+$lang['contact_send_msg'] = 'envoyer le message';
+$lang['contact_name'] = 'nom et prénom';
+$lang['contact_email'] = 'email';
+$lang['contact_subject'] = 'sujet';
+$lang['contact_message'] = 'message';
+$lang['contact_desc'] = 'pour tout service commercial, support ou pour plus d\'informations vous pouvez nous contacter a tout moment. Les champs marqués par une <span class="font-required">(*)</span> sont obligatoires.';
+$lang['contact_com'] = 'commercial';
+$lang['contact_support'] = 'support';
+$lang['contact_contact'] = 'contact';
+$lang['contact_sevice'] = 'contacter le service';
+$lang['contact_tel'] = 'Téléphone mobile';
+$lang['contact_invalide_tel'] = 'veuillez fournir un numéro de téléphone valide. (que des chiffres et sans espaces)';
+$lang['contact_antibot_required'] = 'veuillez confirmer que vous n\'êtes pas un robot';
+$lang['contact_msg_sended'] = "votre message a été envoyé, on va vous contacter dans les meilleurs délais.";
+$lang['contact_msg_error_sended'] = "une erreur innatendue est survenue lors de l'envoi de votre message, veuillez recharger la page et réssayer";

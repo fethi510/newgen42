@@ -1,0 +1,19 @@
+<?php
+$lang['footer_apropos'] = 'MachineDZ';
+$lang['footer_actu'] = 'actualité';
+$lang['footer_pub'] = 'publicité sur machinedz.com';
+$lang['footer_legale'] = 'montions légales';
+$lang['footer_cond_generale_utilisation'] = 'conditions générales d\'utilisation';
+$lang['footer_protection_donnees'] = 'protection des données';
+$lang['footer_tt_droit_reserve'] = 'tout droit réservé';
+$lang['footer_confiance'] = 'ils nous ont fait confiance';
+$lang['footer_developped_by'] = 'développé par';
+$lang['footer_totop'] = 'revenir en haut de la page';
+$lang['footer_machinedz_desc'] = "<b>Machinedz.com,</b> le premier protail Algérien dédié à l'achat, la vente et la location du poids lourd. Trouvez rapidement un camion, un semi-remorque, une machine de construction...neuf ou ocasion, chez un particulier ou un professionnel.<br /> Ce que vous cherchez en un clique sur le teritoire national.";
+$lang['footer_resetez_conn'] = "restez-connecté";
+$lang['footer_fb'] = 'suivez-nous sur Facebook';
+$lang['footer_twitter'] = 'suivez-nous sur Twitter';
+$lang['footer_infos_util'] = 'informations utiles';
+$lang['footer_guid_utilisation'] = "guide d'utilisation";
+$lang['footer_ameliorer_visibilte'] = "améliorer la visibilité de vos annonces";
+$lang['footer_actu'] = "actualité";
